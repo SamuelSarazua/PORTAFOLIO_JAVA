@@ -7,7 +7,7 @@ public class ListaOpciones {
                 "Calculadora","IMC",
                 "Grados","Conversor de unidades",
                 "Calculadora de edad","Lista de Compras",
-                "Opcion_7","Opcion_8",
+                "Conversor de monedas","Opcion_8",
                 "Opcion_9","Salir"
         };
 
@@ -16,7 +16,7 @@ public class ListaOpciones {
         for (int i =0; i< listaDeOpciones.length; i++){
             System.out.printf("[%d] %s        ", i + 1, listaDeOpciones[i]);
 
-            for (int j = 0; j < (19 - listaDeOpciones[i].length()); j++){
+            for (int j = 0; j < (21 - listaDeOpciones[i].length()); j++){
                 System.out.print(" ");
             }
 

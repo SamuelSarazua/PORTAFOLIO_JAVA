@@ -1,6 +1,8 @@
 package Convensor_de_unidades;
 
 
+import Conversor_de_monedas.Conversor_monedas;
+
 import java.util.Scanner;
 
 public class convensor_de_unidades {
@@ -42,10 +44,10 @@ public class convensor_de_unidades {
 
         switch (opcion2){
             case 1:
-            convensor_de_unidades.conversion1_();
+                Conversor_monedas.conversion1_();
                 break;
             case 2:
-            convensor_de_unidades.conversion2_();
+                Conversor_monedas.conversion2_();
                 break;
 
         }

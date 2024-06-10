@@ -1,3 +1,4 @@
+import Conversor_de_monedas.Conversor_monedas;
 import interfaz_gráfica.Banner;
 import opciones.ListaOpciones;
 import programas.IMC;
@@ -49,7 +50,7 @@ public class Main {
                 break;
 
             case 7:
-                System.out.println("Opcion 7");
+                Conversor_monedas.Programa();
                 break;
 
             case 8:
