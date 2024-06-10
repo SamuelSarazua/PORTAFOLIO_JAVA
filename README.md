@@ -46,4 +46,8 @@
 - **Archivo:** `lista_de_compras.java`
 - **Descripción:** Permite la gestión de una lista de compras, añadiendo y eliminando artículos.
 
+### Conversor de monedas
+- **Archivo** `Conversor_monedas.java`
+- **Descripción:** Permite ingresar entre 3 tipos de cantidades o monedas: "Quetzales", "Pesos Mexicanos" y "Dolares" y permite que puedas convertir estas tres monedas a otra moneda.
+
 ## Gracias y Espero le haya gustado mi primer Portafolio en JAVA!
