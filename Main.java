@@ -1,10 +1,11 @@
-import Conversor_de_monedas.Conversor_monedas;
-import interfaz_gráfica.Banner;
-import opciones.ListaOpciones;
-import programas.IMC;
-import matematicas.Mate;
-import Fahrenheit_a_centigrados.fahrenheit_a_grados_centigrados;
-import Convensor_de_unidades.convensor_de_unidades;
+import calculadora.Edad;
+import conversor.Conversor_monedas;
+import interfaz_grafica.Banner;
+import mis_metodos.ListaOpciones;
+import IMC.IMC;
+import calculadora.Mate;
+import conversor.fahrenheit_a_grados_centigrados;
+import conversor.convensor_de_unidades;
 import lista.lista_de_compras;
 
 import java.util.Scanner;
@@ -42,7 +43,7 @@ public class Main {
                 break;
 
             case 5:
-                System.out.println("Opcion 5");
+                Edad.ProgramaEdad();
                 break;
 
             case 6:

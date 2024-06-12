@@ -17,6 +17,9 @@
 - **Archivo:** `Banner.java`
 - **Descripción:** Muestra un banner animado utilizando una interfaz gráfica simple.
 
+### Edad
+- **Archivo:** `Edad.java`
+- **Descripción:** Este programa nos ayuda a calcular la edad exacta de una persona.
 
 ### Matematicas
 - **Archivo:** `Mate.java`
@@ -35,7 +38,7 @@
 
 ### Opciones
 - **Archivo:** `ListaOpciones.java`
-- **Descripción:** Maneja una lista de opciones seleccionables, útil para menús y selección de configuraciones.
+- **Descripción:** Maneja una lista de mis_metodos seleccionables, útil para menús y selección de configuraciones.
 
 
 ### Convensor de Unidades

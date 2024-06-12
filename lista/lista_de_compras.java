@@ -1,5 +1,4 @@
 package lista;
-import opciones.ListaOpciones;
 
 import java.util.ArrayList;
 import java.util.List;
