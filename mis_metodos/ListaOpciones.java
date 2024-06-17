@@ -7,7 +7,7 @@ public class ListaOpciones {
                 "Calculadora","IMC",
                 "Grados","Conversor de unidades",
                 "Calculadora de edad","Lista de Compras",
-                "Conversor de monedas","Opcion_8",
+                "Conversor de monedas","Biblioteca",
                 "Opcion_9","Salir"
         };
 

@@ -1,28 +1,33 @@
 import calculadora.Edad;
 import conversor.Conversor_monedas;
 import interfaz_grafica.Banner;
+import libros.Biblioteca;
 import mis_metodos.ListaOpciones;
 import IMC.IMC;
 import calculadora.Mate;
 import conversor.fahrenheit_a_grados_centigrados;
 import conversor.convensor_de_unidades;
 import lista.lista_de_compras;
+import mis_metodos.MisMetodos;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
-    boolean programa = true;
-    do {
+        MisMetodos.limpiarConsola();
         Banner.mensaje();
+
+        boolean programa = true;
+    do {
+        MisMetodos.imprimirLinea();
         ListaOpciones.cargarOpciones();
 
         // PEDIR UNA OPCION
         Scanner intOpcion = new Scanner(System.in);
         System.out.print("[?]: ");
         int opcion = intOpcion.nextInt();
-        System.out.println("----------------------------------------------");
+        System.out.println("---------------------------------------------------------------");
 
         // CARGAR OPCIONES DEL USUARIO
         switch (opcion){
@@ -55,7 +60,7 @@ public class Main {
                 break;
 
             case 8:
-                System.out.println("Opcion 8");
+                Biblioteca.programa();
                 break;
 
             case 9:

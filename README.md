@@ -40,10 +40,14 @@
 - **Archivo:** `ListaOpciones.java`
 - **Descripción:** Maneja una lista de mis_metodos seleccionables, útil para menús y selección de configuraciones.
 
+### Bibliotecas
+- **Archivo:** `Biblioteca.java`
+- **Archivo:** `Libro.java`
+- **Descripción:** Convierte los tipos de unidades pequeñas a grandes y viceversa.
 
 ### Convensor de Unidades
 - **Archivo:** `convensor_de_unidades.java`
-- **Descripción:** Convierte los tipos de unidades pequeñas a grandes y viceversa.
+- **Descripción:** Muestra un listado de algunos libros famosos que podemos encontrar.
 
 ### Lista de Compras
 - **Archivo:** `lista_de_compras.java`
@@ -53,4 +57,4 @@
 - **Archivo** `Conversor_monedas.java`
 - **Descripción:** Permite ingresar entre 3 tipos de cantidades o monedas: "Quetzales", "Pesos Mexicanos" y "Dolares" y permite que puedas convertir estas tres monedas a otra moneda.
 
-## Gracias y Espero le haya gustado mi primer Portafolio en JAVA!
+# Gracias y Espero le haya gustado mi primer Portafolio en JAVA!
