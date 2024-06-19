@@ -57,4 +57,11 @@
 - **Archivo** `Conversor_monedas.java`
 - **Descripción:** Permite ingresar entre 3 tipos de cantidades o monedas: "Quetzales", "Pesos Mexicanos" y "Dolares" y permite que puedas convertir estas tres monedas a otra moneda.
 
+### Colegio
+- **Archivo:** `Escuela.java`
+- **Archivo:** `Estudiantes.java`
+- **Archivo:** `Cursos.java`
+- **Descripción:** Muestra un listado de alumnos de Segundo grado con su nombre, correo y muestra alguno de los cursos que llevan.
+
+
 # Gracias y Espero le haya gustado mi primer Portafolio en JAVA!

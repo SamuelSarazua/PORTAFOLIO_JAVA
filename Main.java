@@ -1,4 +1,5 @@
 import calculadora.Edad;
+import colegio.Escuela;
 import conversor.Conversor_monedas;
 import interfaz_grafica.Banner;
 import libros.Biblioteca;
@@ -64,7 +65,7 @@ public class Main {
                 break;
 
             case 9:
-                System.out.println("Opcion 9");
+                Escuela.programa();
                 break;
 
             case 10:
