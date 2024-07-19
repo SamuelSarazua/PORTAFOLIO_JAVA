@@ -25,7 +25,7 @@ public class Edad {
         System.out.print("Ingresa el dia de nacimiento :");
         int dia_n= datos.nextInt();
 
-        System.out.print("Ingresa la año actual :");
+        System.out.print("Ingresa el año actual :");
         int actual = datos.nextInt();
 
         System.out.print("Ingresa el mes actual :");
